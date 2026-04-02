@@ -1,0 +1,21 @@
+# ==========================================
+# robots.txt for https://gorillabuilder.dev
+# ==========================================
+
+User-agent: *
+
+# Core Marketing Pages
+Allow: /
+Allow: /about
+Allow: /contact
+Allow: /careers
+Allow: /pricing
+
+# Allow all changelog versions dynamically
+Allow: /changelog/
+
+# Hide the status page from search results
+Disallow: /status
+
+# Point bots to your sitemap (highly recommended!)
+Sitemap: https://gorillabuilder.dev/sitemap.xml
