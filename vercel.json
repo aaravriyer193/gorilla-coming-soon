@@ -3,7 +3,7 @@
     {
       "source": "/changelog/:path*",
       "destination": "/changelog",
-      "permanent": false
+      "permanent": true
     }
   ],
   "rewrites": [
