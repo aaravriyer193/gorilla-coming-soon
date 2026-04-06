@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/changelog/:path*",
+      "destination": "/changelog",
+      "permanent": false
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
