@@ -1,11 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/changelog/:path*",
-      "destination": "/changelog",
-      "permanent": true
-    }
-  ],
   "rewrites": [
     {
       "source": "/(.*)",
