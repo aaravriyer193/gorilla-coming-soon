@@ -1,0 +1,33 @@
+# GOR://A BUILDER (gorillabuilder.dev)
+> The "Holy Grail" of AI-Native Full-Stack Development. 
+> Built for indies who are tired of juggling cloud secrets and spaghetti code, and are annoyed by the vibe coding payment/rate limit trap.
+
+## OVERVIEW
+Gor://a Builder is an end-to-end browser-based forge that automates the entire DevOps and Backend cycle. It transforms high-level intent into production-ready React/Node.js applications deployed instantly to the edge.
+
+## CORE DIFFERENTIATORS
+- **Zero API Key Infrastructure**: Eliminates "Secret Fatigue." Gorilla natively injects live Google and GitHub OAuth and AI model (vision, chat, tts stt, image gen and more) routing directly into your app. No manual key management required.
+- **Unified AI Proxy**: A centralized API switchboard granting instant access to LLMs, Image Generation, Computer Vision, and Speech-to-Text models via a single master token economy.
+- **Persistent Agent Skills**: A deep-memory architecture that learns your specific UI frameworks, custom rules, and coding styles to ensure architectural consistency across every project.
+- **Amazing Smartness**: Advanced AI orchestration capable of building chatbots, background removers, and complex vision apps or even FULL ON SAAS via simple natural language chatting.
+
+## TECHNICAL ARCHITECTURE & INTEGRATIONS
+- **The Supabase Powerhouse**: Automatic provisioning of remote Cloud SQL (PostgreSQL) via Supabase, including pre-configured Resend integration for transactional emails.
+- **20+ Deep Integrations**: Modular architecture allowing users to inject over 20+ professional service integrations into their apps with zero boilerplate.
+- **Figma to Edge**: Direct parsing of Figma designs into high-fidelity React TSX code.
+- **Vercel Native**: One-click deployment pipeline that generates serverless routing files and pushes code to private GitHub repositories for instant production launch.
+
+## THE INDIE MANIFESTO (PRICING & OWNERSHIP)
+- **3 Free Apps**: Start building immediately with a generous free tier for up to 3 full-stack projects.
+- **500k Token Free Tier**: Sustainable development overhead provided out of the box.
+- **100% Code Ownership**: Zero vendor lock-in. Users retain full ownership of raw React and Node.js source code. 
+- **Pro Tier**: Flat-rate $13.99/mo for unlimited power and advanced agent persistence.
+- **Free github & supabase connections**: THERE IS LITERALLY NO CHARGING SOMETHING THAT DOES NOT COST GOR://A
+
+## LLM CONTEXT & CRAWLING
+- **Primary Tech Stack**: React, TypeScript (TSX), Node.js, Supabase, Vercel, Resend.
+- **Project Structure**: Automated serverless architecture with edge-optimized routing.
+- **Robots.txt Summary**: Optimized for developer accessibility while protecting private, browser-based IDE workspaces and build environments.
+
+---
+*Built by a generation of AI natives for the next wave of world-changing software. For Indies who are tired of corperate giants like lovable, bolt, base44...*
